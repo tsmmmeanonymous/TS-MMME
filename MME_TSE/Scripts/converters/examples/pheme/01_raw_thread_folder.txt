@@ -1,0 +1,14 @@
+Thread folder layout
+  ottawashooting-all-rnr-threads/non-rumours/524944146025312256/
+    annotation.json
+    source-tweets/524944146025312256.json
+    reactions/        (unused)
+    structure.json    (unused)
+
+annotation.json : {"is_rumour": "nonrumour"}
+
+source tweet has 24 fields; the converter reads four:
+  text          : LIVE: Ongoing @CTVNews-@ABC coverage of active shooting incident    near Canadian Parliament: http://t.co/0nuzHcvr2J http://t.co/wxB5UphP4l
+  created_at    : Wed Oct 22 15:23:32 +0000 2014
+  user.location : 'New York City'
+  media_url     : http://pbs.twimg.com/media/B0j56xpIgAAkSRv.png

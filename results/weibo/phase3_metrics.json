@@ -1,0 +1,17 @@
+{
+    "accuracy": 0.8553054662379421,
+    "precision": 0.9581005586592178,
+    "recall": 0.7408207343412527,
+    "f1_score": 0.8355663824604141,
+    "confusion_matrix": [
+        [
+            343,
+            120
+        ],
+        [
+            15,
+            455
+        ]
+    ],
+    "classification_report": "              precision    recall  f1-score   support\n\n       rumor     0.9581    0.7408    0.8356       463\n       truth     0.7913    0.9681    0.8708       470\n\n    accuracy                         0.8553       933\n   macro avg     0.8747    0.8545    0.8532       933\nweighted avg     0.8741    0.8553    0.8533       933\n"
+}

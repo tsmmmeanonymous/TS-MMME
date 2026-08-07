@@ -1,0 +1,18 @@
+{
+  "content": "LIVE: Ongoing @CTVNews-@ABC coverage of active shooting incident    near Canadian Parliament: http://t.co/0nuzHcvr2J http://t.co/wxB5UphP4l",
+  "image_path": "dataset/article_images/img_0.jpg",
+  "cluster_id": 0,
+  "time": 1413936000000,
+  "label": "truth",
+  "year": 2014,
+  "season": 4,
+  "month": 10,
+  "id": 0,
+  "weight": 1,
+  "day": 22,
+  "year_month": "2014-10",
+  "year_season": "2014-04",
+  "location": "New York City",
+  "location_bengali": "",
+  "original_location": "New York City"
+}

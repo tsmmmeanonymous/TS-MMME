@@ -1,0 +1,97 @@
+{
+    "0": {
+        "name": "General Social & Miscellaneous Claims",
+        "keywords": [
+            "social",
+            "people",
+            "video",
+            "viral",
+            "public",
+            "media",
+            "online",
+            "shared",
+            "claim"
+        ]
+    },
+
+    "1": {
+        "name": "Urban Governance & Civic Issues",
+        "keywords": [
+            "illegal",
+            "street",
+            "residents",
+            "eviction",
+            "municipal",
+            "housing",
+            "protest",
+            "authority"
+        ]
+    },
+
+    "2": {
+        "name": "Political Statements & Public Discourse",
+        "keywords": [
+            "government",
+            "election",
+            "leader",
+            "political",
+            "party",
+            "statement",
+            "policy",
+            "debate"
+        ]
+    },
+
+    "3": {
+        "name": "Science, Health & Environmental Misinformation",
+        "keywords": [
+            "virus",
+            "health",
+            "science",
+            "medical",
+            "research",
+            "environment",
+            "study",
+            "evidence"
+        ]
+    },
+
+    "4": {
+        "name": "Digital Media & Online Narratives",
+        "keywords": [
+            "facebook",
+            "whatsapp",
+            "youtube",
+            "platform",
+            "digital",
+            "content",
+            "misinformation"
+        ]
+    },
+
+    "5": {
+        "name": "Government Schemes & Policy Claims",
+        "keywords": [
+            "government",
+            "scheme",
+            "project",
+            "infrastructure",
+            "development",
+            "funding",
+            "policy"
+        ]
+    },
+
+    "6": {
+        "name": "Climate, Weather & Air Pollution",
+        "keywords": [
+            "pollution",
+            "air quality",
+            "climate change",
+            "weather",
+            "environment",
+            "rainfall",
+            "smog"
+        ]
+    }
+}

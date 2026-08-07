@@ -1,0 +1,16 @@
+Source file : gossipcop_fake.csv
+CSV header  : id,news_url,title,tweet_ids
+
+id        : gossipcop-6940044526
+news_url  : kellyandryan.com/uncategorized/ryan-bio/
+title     : LIVE with Kelly and Ryan
+tweet_ids : 1202 ids, tab-separated
+            first 3 -> 1019420747419144194 1019511879662817280 1019525839208280064
+
+Timestamp derivation
+  every id decoded as (id >> 22) + 1288834974657
+  earliest of 1202 -> 2018-07-18 03:17:00 UTC
+  normalised to midnight UTC -> 1531872000000
+
+NOTE two rows in gossipcop_fake.csv share this title.
+This is the one that produced record id 0 in the master file.

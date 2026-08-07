@@ -1,0 +1,18 @@
+{
+  "content": "LIVE with Kelly and Ryan",
+  "image_path": "dataset/article_images/img_0.jpg",
+  "cluster_id": 0,
+  "time": 1531872000000,
+  "label": "rumor",
+  "year": 2018,
+  "season": 3,
+  "month": 7,
+  "id": 0,
+  "weight": 1,
+  "day": 18,
+  "year_month": "2018-07",
+  "year_season": "2018-03",
+  "location": "USA",
+  "location_bengali": "",
+  "original_location": "USA"
+}

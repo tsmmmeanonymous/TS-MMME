@@ -1,0 +1,98 @@
+[
+    {
+        "topic_id": 0,
+        "topic_name": "General Social & Miscellaneous Claims",
+        "keywords": [
+            "social",
+            "people",
+            "video",
+            "viral",
+            "public",
+            "media",
+            "online",
+            "shared",
+            "claim"
+        ]
+    },
+    {
+        "topic_id": 1,
+        "topic_name": "Urban Governance & Civic Issues",
+        "keywords": [
+            "illegal",
+            "street",
+            "residents",
+            "eviction",
+            "municipal",
+            "housing",
+            "protest",
+            "authority"
+        ]
+    },
+    {
+        "topic_id": 2,
+        "topic_name": "Political Statements & Public Discourse",
+        "keywords": [
+            "government",
+            "election",
+            "leader",
+            "political",
+            "party",
+            "statement",
+            "policy",
+            "debate"
+        ]
+    },
+    {
+        "topic_id": 3,
+        "topic_name": "Science, Health & Environmental Misinformation",
+        "keywords": [
+            "virus",
+            "health",
+            "science",
+            "medical",
+            "research",
+            "environment",
+            "study",
+            "evidence"
+        ]
+    },
+    {
+        "topic_id": 4,
+        "topic_name": "Digital Media & Online Narratives",
+        "keywords": [
+            "facebook",
+            "whatsapp",
+            "youtube",
+            "platform",
+            "digital",
+            "content",
+            "misinformation"
+        ]
+    },
+    {
+        "topic_id": 5,
+        "topic_name": "Government Schemes & Policy Claims",
+        "keywords": [
+            "government",
+            "scheme",
+            "project",
+            "infrastructure",
+            "development",
+            "funding",
+            "policy"
+        ]
+    },
+    {
+        "topic_id": 6,
+        "topic_name": "Climate, Weather & Air Pollution",
+        "keywords": [
+            "pollution",
+            "air quality",
+            "climate change",
+            "weather",
+            "environment",
+            "rainfall",
+            "smog"
+        ]
+    }
+]
