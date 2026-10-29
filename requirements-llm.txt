@@ -1,0 +1,6 @@
+requests>=2.32
+Pillow>=11.0
+mlx-vlm>=0.7.3   # Apple Silicon only (llm_local.py)
+mlx-lm           # Apple Silicon only (llm_local_deepseek.py)
+scikit-learn>=1.7
+numpy>=1.26

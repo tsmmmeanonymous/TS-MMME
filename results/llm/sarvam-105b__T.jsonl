@@ -1,0 +1,1061 @@
+{"id": "29055", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 284, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29056", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 314, "raw": "{\"label\": \"real\"}"}
+{"id": "29057", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 342, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29058", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 333, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29059", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 327, "raw": "{\"label\": \"real\"}"}
+{"id": "29060", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 298, "raw": "{\"label\": \"fake\"}"}
+{"id": "29061", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 327, "raw": "{\"label\": \"real\"}"}
+{"id": "29062", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 302, "raw": "{\"label\": \"real\"}"}
+{"id": "29063", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 295, "raw": "{\"label\": \"real\"}"}
+{"id": "29064", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 309, "raw": "{\n  \"label\": \"real\"\n}"}
+{"id": "29065", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 300, "raw": "{\"label\": \"real\"}"}
+{"id": "29066", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 316, "raw": "{\"label\": \"real\"}"}
+{"id": "29067", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 341, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29068", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 338, "raw": "{\"label\": \"real\"}"}
+{"id": "29069", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 337, "raw": "{\"label\": \"real\"}"}
+{"id": "29070", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 318, "raw": "{\"label\": \"real\"}"}
+{"id": "29071", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 319, "raw": "{\"label\": \"real\"}"}
+{"id": "29072", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 309, "raw": "{\"label\": \"fake\"}"}
+{"id": "29073", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 307, "raw": "{\"label\": \"real\"}"}
+{"id": "29074", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 305, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29075", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 312, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29076", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 270, "raw": "{\"label\": \"real\"}"}
+{"id": "29077", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 300, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29078", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 307, "raw": "{\"label\": \"real\"}"}
+{"id": "29079", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 309, "raw": "{\"label\": \"real\"}"}
+{"id": "29080", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 327, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29081", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 320, "raw": "{\"label\": \"real\"}"}
+{"id": "29082", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 304, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29083", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 335, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29084", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 292, "raw": "{\"label\": \"real\"}"}
+{"id": "29085", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 279, "raw": "{\"label\": \"real\"}"}
+{"id": "29086", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 316, "raw": "{\"label\": \"real\"}"}
+{"id": "29087", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 315, "raw": "```json\nreal\n```"}
+{"id": "29088", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 299, "raw": "{\"label\": \"real\"}"}
+{"id": "29089", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 300, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29090", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 322, "raw": "{\"label\": \"real\"}"}
+{"id": "29091", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 325, "raw": "{\"label\": \"real\"}"}
+{"id": "29092", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 293, "raw": "{\"label\": \"fake\"}"}
+{"id": "29093", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 316, "raw": "{\"label\": \"real\"}"}
+{"id": "29094", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 308, "raw": "{\"label\": \"real\"}"}
+{"id": "29095", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 277, "raw": "{\"label\": \"real\"}"}
+{"id": "29096", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 300, "raw": "{\"label\": \"real\"}"}
+{"id": "29097", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 307, "raw": "{\n  \"label\": \"real\"\n}"}
+{"id": "29098", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 312, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29099", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 305, "raw": "{\"label\": \"fake\"}"}
+{"id": "29100", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 299, "raw": "{\"label\": \"real\"}"}
+{"id": "29101", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 328, "raw": "{\"label\": \"real\"}"}
+{"id": "29102", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 278, "raw": "{\"label\": \"fake\"}"}
+{"id": "29103", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 304, "raw": "{\"label\": \"real\"}"}
+{"id": "29104", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 325, "raw": "{\"label\": \"real\"}"}
+{"id": "29105", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 301, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29106", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 318, "raw": "{\"label\": \"real\"}"}
+{"id": "29107", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 317, "raw": "{\n  \"label\": \"real\"\n}"}
+{"id": "29108", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 306, "raw": "{\"label\": \"fake\"}"}
+{"id": "29109", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 345, "raw": "{\"label\": \"real\"}"}
+{"id": "29110", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 318, "raw": "{\"label\": \"real\"}"}
+{"id": "29111", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 340, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29112", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 318, "raw": "{\"label\": \"fake\"}"}
+{"id": "29113", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 312, "raw": "{\"label\": \"fake\"}"}
+{"id": "29114", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 277, "raw": "{\"label\": \"real\"}"}
+{"id": "29115", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 310, "raw": "{\"label\": \"fake\"}"}
+{"id": "29116", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 282, "raw": "{\"label\": \"real\"}"}
+{"id": "29117", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 309, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29118", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 291, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29119", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 329, "raw": "{\"label\": \"real\"}"}
+{"id": "29120", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 324, "raw": "{\"label\": \"fake\"}"}
+{"id": "29121", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 294, "raw": "{\"label\": \"real\"}"}
+{"id": "29122", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 317, "raw": "{\"label\": \"real\"}"}
+{"id": "29123", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 283, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29124", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 304, "raw": "{\"label\": \"real\"}"}
+{"id": "29125", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 283, "raw": "{\"label\": \"real\"}"}
+{"id": "29126", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 318, "raw": "{\"label\": \"real\"}"}
+{"id": "29127", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 331, "raw": "{\"label\": \"real\"}"}
+{"id": "29128", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 289, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29129", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 293, "raw": "{\"label\": \"real\"}"}
+{"id": "29130", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 316, "raw": "{\"label\": \"real\"}"}
+{"id": "29131", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 296, "raw": "{\"label\": \"real\"}"}
+{"id": "29132", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 287, "raw": "{\"label\": \"real\"}"}
+{"id": "29133", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 295, "raw": "{\"label\": \"real\"}"}
+{"id": "29134", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 305, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29135", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 315, "raw": "{\"label\": \"real\"}"}
+{"id": "29136", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 318, "raw": "{\"label\": \"real\"}"}
+{"id": "29137", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 302, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29138", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 350, "raw": "{\"label\": \"real\"}"}
+{"id": "29139", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 290, "raw": "{\"label\": \"fake\"}"}
+{"id": "29140", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 312, "raw": "{\"label\": \"real\"}"}
+{"id": "29141", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 282, "raw": "{\"label\": \"real\"}"}
+{"id": "29142", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 270, "raw": "{\"label\": \"real\"}"}
+{"id": "29143", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 297, "raw": "{\"label\": \"real\"}"}
+{"id": "29144", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 299, "raw": "{\"label\": \"real\"}"}
+{"id": "29145", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 301, "raw": "{\"label\": \"real\"}"}
+{"id": "29146", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 305, "raw": "{\"label\": \"real\"}"}
+{"id": "29147", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 292, "raw": "{\"label\": \"fake\"}"}
+{"id": "29148", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 310, "raw": "{\"label\": \"real\"}"}
+{"id": "29149", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 300, "raw": "{\"label\": \"real\"}"}
+{"id": "29150", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 273, "raw": "{\"label\": \"real\"}"}
+{"id": "29151", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 296, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29152", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 290, "raw": "{\"label\": \"fake\"}"}
+{"id": "29153", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 291, "raw": "{\"label\": \"real\"}"}
+{"id": "29154", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 303, "raw": "{\"label\": \"real\"}"}
+{"id": "29155", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 294, "raw": "{\"label\": \"real\"}"}
+{"id": "29156", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 302, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29157", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 330, "raw": "{\"label\": \"real\"}"}
+{"id": "29158", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 293, "raw": "{\"label\": \"real\"}"}
+{"id": "29159", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 271, "raw": "{\"label\": \"real\"}"}
+{"id": "29160", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 320, "raw": "{\"label\": \"real\"}"}
+{"id": "29161", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 299, "raw": "{\"label\": \"real\"}"}
+{"id": "29162", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 333, "raw": "{\"label\": \"real\"}"}
+{"id": "29163", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 278, "raw": "{\"label\": \"real\"}"}
+{"id": "29164", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 293, "raw": "{\"label\": \"real\"}"}
+{"id": "29165", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 288, "raw": "{\"label\": \"real\"}"}
+{"id": "29166", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 303, "raw": "{\"label\": \"real\"}"}
+{"id": "29167", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 309, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29168", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 285, "raw": "{\"label\": \"real\"}"}
+{"id": "29169", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 298, "raw": "{\"label\": \"real\"}"}
+{"id": "29170", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 324, "raw": "{\"label\": \"real\"}"}
+{"id": "29171", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 313, "raw": "{\"label\": \"real\"}"}
+{"id": "29172", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 304, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29173", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 315, "raw": "{\"label\": \"real\"}"}
+{"id": "29174", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 290, "raw": "{\"label\": \"real\"}"}
+{"id": "29175", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 305, "raw": "{\"label\": \"real\"}"}
+{"id": "29176", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 327, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29177", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 273, "raw": "{\"label\": \"real\"}"}
+{"id": "29178", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 291, "raw": "{\"label\": \"real\"}"}
+{"id": "29179", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 288, "raw": "{\"label\": \"real\"}"}
+{"id": "29180", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 299, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29181", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 289, "raw": "{\"label\": \"fake\"}"}
+{"id": "29182", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 310, "raw": "{\"label\": \"real\"}"}
+{"id": "29183", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 317, "raw": "{\"label\": \"real\"}"}
+{"id": "29184", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 293, "raw": "{\"label\": \"real\"}"}
+{"id": "29185", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 296, "raw": "{\"label\": \"real\"}"}
+{"id": "29186", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 291, "raw": "{\"label\": \"real\"}"}
+{"id": "29187", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 300, "raw": "{\"label\": \"real\"}"}
+{"id": "29188", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 311, "raw": "{\"label\": \"real\"}"}
+{"id": "29189", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 283, "raw": "{\"label\": \"real\"}"}
+{"id": "29190", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 318, "raw": "{\"label\": \"real\"}"}
+{"id": "29191", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 319, "raw": "{\"label\": \"real\"}"}
+{"id": "29192", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 323, "raw": "{\"label\": \"real\"}"}
+{"id": "29193", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 325, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29194", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 288, "raw": "{\"label\": \"real\"}"}
+{"id": "29195", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 294, "raw": "{\"label\": \"real\"}"}
+{"id": "29196", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 330, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29197", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 311, "raw": "{\"label\": \"real\"}"}
+{"id": "29198", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 274, "raw": "{\"label\": \"fake\"}"}
+{"id": "29199", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 269, "raw": "{\"label\": \"fake\"}"}
+{"id": "29200", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 289, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29201", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 267, "raw": "{\"label\": \"fake\"}"}
+{"id": "29202", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 315, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29203", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 297, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29204", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 289, "raw": "{\"label\": \"fake\"}"}
+{"id": "29205", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 280, "raw": "{\"label\": \"real\"}"}
+{"id": "29206", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 308, "raw": "{\"label\": \"real\"}"}
+{"id": "29207", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 303, "raw": "{\"label\": \"real\"}"}
+{"id": "29208", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 284, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29209", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 290, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29210", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 305, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29211", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 281, "raw": "{\"label\": \"fake\"}"}
+{"id": "29212", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 286, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29213", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 300, "raw": "{\"label\": \"real\"}"}
+{"id": "29214", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 302, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29215", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 290, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29216", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 285, "raw": "{\"label\": \"fake\"}"}
+{"id": "29217", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 316, "raw": "{\"label\": \"fake\"}"}
+{"id": "29218", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 299, "raw": "{\"label\": \"fake\"}"}
+{"id": "29219", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 298, "raw": "{\"label\": \"real\"}"}
+{"id": "29220", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 297, "raw": "{\"label\": \"fake\"}"}
+{"id": "29221", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 276, "raw": "{\"label\": \"fake\"}"}
+{"id": "29222", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 287, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29223", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 294, "raw": "{\"label\": \"fake\"}"}
+{"id": "29224", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 273, "raw": "{\"label\": \"real\"}"}
+{"id": "29225", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 277, "raw": "{\"label\": \"real\"}"}
+{"id": "29226", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 304, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29227", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 302, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29228", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 310, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29229", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 292, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29230", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 270, "raw": "{\"label\": \"real\"}"}
+{"id": "29231", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 315, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29232", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 283, "raw": "{\"label\": \"fake\"}"}
+{"id": "29233", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 310, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29234", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 294, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29235", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 318, "raw": "{\"label\": \"fake\"}"}
+{"id": "29236", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 277, "raw": "{\"label\": \"fake\"}"}
+{"id": "29237", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 299, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29238", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 327, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29239", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 298, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29240", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 292, "raw": "{\"label\": \"fake\"}"}
+{"id": "29241", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 299, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29242", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 321, "raw": "{\"label\": \"real\"}"}
+{"id": "29243", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 290, "raw": "{\"label\": \"real\"}"}
+{"id": "29244", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 310, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29245", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 314, "raw": "{\"label\": \"real\"}"}
+{"id": "29246", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 304, "raw": "{\"label\": \"fake\"}"}
+{"id": "29247", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 333, "raw": "{\"label\": \"fake\"}"}
+{"id": "29248", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 285, "raw": "{\"label\": \"fake\"}"}
+{"id": "29249", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 293, "raw": "{\"label\": \"fake\"}"}
+{"id": "29250", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 334, "raw": "{\"label\": \"real\"}"}
+{"id": "29251", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 316, "raw": "{\"label\": \"real\"}"}
+{"id": "29252", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 306, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29253", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 288, "raw": "{\"label\": \"fake\"}"}
+{"id": "29254", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 286, "raw": "{\"label\": \"fake\"}"}
+{"id": "29255", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 301, "raw": "{\"label\": \"fake\"}"}
+{"id": "29256", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 312, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29257", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 298, "raw": "{\"label\": \"real\"}"}
+{"id": "29258", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 307, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29259", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 306, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29260", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 289, "raw": "{\"label\": \"real\"}"}
+{"id": "29261", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 314, "raw": "{\"label\": \"real\"}"}
+{"id": "29262", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 327, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29263", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 320, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29264", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 327, "raw": "{\"label\": \"real\"}"}
+{"id": "29265", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 312, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29266", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 304, "raw": "{\"label\": \"real\"}"}
+{"id": "29267", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 261, "raw": "{\"label\": \"fake\"}"}
+{"id": "29268", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 318, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29269", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 315, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29270", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 283, "raw": "{\"label\": \"real\"}"}
+{"id": "29271", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 304, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29272", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 287, "raw": "{\"label\": \"real\"}"}
+{"id": "29273", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 283, "raw": "{\"label\": \"real\"}"}
+{"id": "29274", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 320, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29275", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 296, "raw": "{\"label\": \"real\"}"}
+{"id": "29276", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 302, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29277", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 315, "raw": "{\"label\": \"real\"}"}
+{"id": "29278", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 330, "raw": "{\"label\": \"real\"}"}
+{"id": "29279", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 315, "raw": "{\"label\": \"real\"}"}
+{"id": "29280", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 318, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29281", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 309, "raw": "{\"label\": \"real\"}"}
+{"id": "29282", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 284, "raw": "{\"label\": \"real\"}"}
+{"id": "29283", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 292, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29284", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 317, "raw": "{\"label\": \"real\"}"}
+{"id": "29285", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 681, "raw": "{\"label\": \"fake\"}"}
+{"id": "29286", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 677, "raw": "{\"label\": \"fake\"}"}
+{"id": "29287", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 678, "raw": "{\"label\": \"fake\"}"}
+{"id": "29288", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 683, "raw": "{\"label\": \"fake\"}"}
+{"id": "29289", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 682, "raw": "{\"label\": \"fake\"}"}
+{"id": "29290", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 679, "raw": "{\"label\": \"fake\"}"}
+{"id": "29291", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 682, "raw": "{\"label\": \"fake\"}"}
+{"id": "29292", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 682, "raw": "{\"label\": \"fake\"}"}
+{"id": "29293", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 677, "raw": "{\"label\": \"fake\"}"}
+{"id": "29294", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 677, "raw": "{\"label\": \"fake\"}"}
+{"id": "29295", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 678, "raw": "{\"label\": \"fake\"}"}
+{"id": "29296", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 332, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29297", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 331, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29298", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 300, "raw": "{\"label\": \"real\"}"}
+{"id": "29299", "quarter": 1, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 353, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29300", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 340, "raw": "{\"label\": \"real\"}"}
+{"id": "29301", "quarter": 1, "gold": "fake", "pred": "real", "image_used": false, "tokens": 337, "raw": "{\"label\": \"real\"}"}
+{"id": "29302", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 681, "raw": "{\"label\": \"fake\"}"}
+{"id": "29303", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 677, "raw": "{\"label\": \"fake\"}"}
+{"id": "29304", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 678, "raw": "{\"label\": \"fake\"}"}
+{"id": "29305", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 683, "raw": "{\"label\": \"fake\"}"}
+{"id": "29306", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 682, "raw": "{\"label\": \"fake\"}"}
+{"id": "29307", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 679, "raw": "{\"label\": \"fake\"}"}
+{"id": "29308", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 682, "raw": "{\"label\": \"fake\"}"}
+{"id": "29309", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 682, "raw": "{\"label\": \"fake\"}"}
+{"id": "29310", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 677, "raw": "{\"label\": \"fake\"}"}
+{"id": "29311", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 677, "raw": "{\"label\": \"fake\"}"}
+{"id": "29312", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 678, "raw": "{\"label\": \"fake\"}"}
+{"id": "29313", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 326, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29314", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 300, "raw": "{\"label\": \"real\"}"}
+{"id": "29315", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 348, "raw": "{\"label\": \"fake\"}"}
+{"id": "29316", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 345, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29317", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 342, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29318", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 354, "raw": "{\"label\": \"real\"}"}
+{"id": "29319", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 300, "raw": "{\"label\": \"fake\"}"}
+{"id": "29320", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 328, "raw": "{\"label\": \"fake\"}"}
+{"id": "29321", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 262, "raw": "{\"label\": \"fake\"}"}
+{"id": "29322", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 361, "raw": "{\"label\": \"fake\"}"}
+{"id": "29323", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 366, "raw": "{\"label\": \"real\"}"}
+{"id": "29324", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 366, "raw": "{\"label\": \"fake\"}"}
+{"id": "29325", "quarter": 1, "gold": "real", "pred": "fake", "image_used": false, "tokens": 366, "raw": "{\"label\": \"fake\"}"}
+{"id": "29326", "quarter": 1, "gold": "real", "pred": "real", "image_used": false, "tokens": 371, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29327", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 316, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29328", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 327, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29329", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 298, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29330", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 308, "raw": "{\"label\": \"real\"}"}
+{"id": "29331", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 307, "raw": "{\"label\": \"real\"}"}
+{"id": "29332", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 301, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29333", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 331, "raw": "{\"label\": \"real\"}"}
+{"id": "29334", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 315, "raw": "{\"label\": \"real\"}"}
+{"id": "29335", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 298, "raw": "{\"label\": \"real\"}"}
+{"id": "29336", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 321, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29337", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 274, "raw": "{\"label\": \"real\"}"}
+{"id": "29338", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 313, "raw": "{\"label\": \"real\"}"}
+{"id": "29339", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 273, "raw": "{\"label\": \"real\"}"}
+{"id": "29340", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 310, "raw": "{\"label\": \"real\"}"}
+{"id": "29341", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 312, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29342", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 294, "raw": "{\"label\": \"fake\"}"}
+{"id": "29343", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 336, "raw": "{\"label\": \"real\"}"}
+{"id": "29344", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 320, "raw": "{\"label\": \"real\"}"}
+{"id": "29345", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 318, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29346", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 302, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29347", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 323, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29348", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 300, "raw": "{\"label\": \"real\"}"}
+{"id": "29349", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 292, "raw": "{\"label\": \"real\"}"}
+{"id": "29350", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 330, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29351", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 302, "raw": "{\"label\": \"real\"}"}
+{"id": "29352", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 295, "raw": "{\"label\": \"real\"}"}
+{"id": "29353", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 309, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29354", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 296, "raw": "{\"label\": \"real\"}"}
+{"id": "29355", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 266, "raw": "{\"label\": \"real\"}"}
+{"id": "29356", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 299, "raw": "{\"label\": \"real\"}"}
+{"id": "29357", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 306, "raw": "{\"label\": \"real\"}"}
+{"id": "29358", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 311, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29359", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 293, "raw": "{\"label\": \"real\"}"}
+{"id": "29360", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 293, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29361", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 300, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29362", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 285, "raw": "{\"label\": \"real\"}"}
+{"id": "29363", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 294, "raw": "{\"label\": \"real\"}"}
+{"id": "29364", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 292, "raw": "{\"label\": \"real\"}"}
+{"id": "29365", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 294, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29366", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 299, "raw": "{\"label\": \"real\"}"}
+{"id": "29367", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 304, "raw": "{\"label\": \"fake\"}"}
+{"id": "29368", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 332, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29369", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 287, "raw": "{\"label\": \"real\"}"}
+{"id": "29370", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 287, "raw": "{\"label\": \"real\"}"}
+{"id": "29371", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 285, "raw": "{\"label\": \"real\"}"}
+{"id": "29372", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 289, "raw": "{\"label\": \"real\"}"}
+{"id": "29373", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 268, "raw": "{\"label\": \"real\"}"}
+{"id": "29374", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 306, "raw": "{\"label\": \"real\"}"}
+{"id": "29375", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 291, "raw": "{\"label\": \"real\"}"}
+{"id": "29376", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 276, "raw": "{\"label\": \"real\"}"}
+{"id": "29377", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 314, "raw": "{\"label\": \"real\"}"}
+{"id": "29378", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 293, "raw": "{\"label\": \"fake\"}"}
+{"id": "29379", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 303, "raw": "{\"label\": \"real\"}"}
+{"id": "29380", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 276, "raw": "{\"label\": \"real\"}"}
+{"id": "29381", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 306, "raw": "{\"label\": \"real\"}"}
+{"id": "29382", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 306, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29383", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 313, "raw": "{\"label\": \"real\"}"}
+{"id": "29384", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 304, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29385", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 308, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29386", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 288, "raw": "{\"label\": \"real\"}"}
+{"id": "29387", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 299, "raw": "{\"label\": \"real\"}"}
+{"id": "29388", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 308, "raw": "{\"label\": \"real\"}"}
+{"id": "29389", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 302, "raw": "{\"label\": \"real\"}"}
+{"id": "29390", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 342, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29391", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 315, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29392", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 307, "raw": "{\"label\": \"real\"}"}
+{"id": "29393", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 298, "raw": "{\"label\": \"real\"}"}
+{"id": "29394", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 289, "raw": "{\"label\": \"real\"}"}
+{"id": "29395", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 321, "raw": "{\"label\": \"real\"}"}
+{"id": "29396", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 315, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29397", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 288, "raw": "{\"label\": \"real\"}"}
+{"id": "29398", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 279, "raw": "{\"label\": \"real\"}"}
+{"id": "29399", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 313, "raw": "{\"label\": \"real\"}"}
+{"id": "29400", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 293, "raw": "{\"label\": \"real\"}"}
+{"id": "29401", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 311, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29402", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 318, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29403", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 279, "raw": "{\"label\": \"real\"}"}
+{"id": "29404", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 330, "raw": "{\"label\": \"real\"}"}
+{"id": "29405", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 305, "raw": "{\"label\": \"real\"}"}
+{"id": "29406", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 301, "raw": "{\"label\": \"real\"}"}
+{"id": "29407", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 280, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29408", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 301, "raw": "{\"label\": \"real\"}"}
+{"id": "29409", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 303, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29410", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 300, "raw": "{\"label\": \"real\"}"}
+{"id": "29411", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 299, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29412", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 310, "raw": "{\"label\": \"real\"}"}
+{"id": "29413", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 287, "raw": "{\"label\": \"real\"}"}
+{"id": "29414", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 293, "raw": "{\"label\": \"real\"}"}
+{"id": "29415", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 296, "raw": "{\"label\": \"real\"}"}
+{"id": "29416", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 293, "raw": "{\"label\": \"real\"}"}
+{"id": "29417", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 283, "raw": "{\"label\": \"real\"}"}
+{"id": "29418", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 290, "raw": "{\"label\": \"real\"}"}
+{"id": "29419", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 329, "raw": "{\"label\": \"real\"}"}
+{"id": "29420", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 313, "raw": "{\"label\": \"real\"}"}
+{"id": "29421", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 289, "raw": "{\"label\": \"real\"}"}
+{"id": "29422", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 312, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29423", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 318, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29424", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 318, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29425", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 321, "raw": "{\"label\": \"fake\"}"}
+{"id": "29426", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 301, "raw": "{\"label\": \"fake\"}"}
+{"id": "29427", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 316, "raw": "{\"label\": \"fake\"}"}
+{"id": "29428", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 305, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29429", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 304, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29430", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 276, "raw": "{\"label\": \"real\"}"}
+{"id": "29431", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 285, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29432", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 277, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29433", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 288, "raw": "{\"label\": \"real\"}"}
+{"id": "29434", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 288, "raw": "{\"label\": \"real\"}"}
+{"id": "29435", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 308, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29436", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 284, "raw": "{\"label\": \"real\"}"}
+{"id": "29437", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 313, "raw": "{\"label\": \"fake\"}"}
+{"id": "29438", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 289, "raw": "{\"label\": \"real\"}"}
+{"id": "29439", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 309, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29440", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 304, "raw": "{\"label\": \"fake\"}"}
+{"id": "29441", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 285, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29442", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 329, "raw": "{\n  \"label\": \"real\"\n}"}
+{"id": "29443", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 273, "raw": "{\"label\": \"fake\"}"}
+{"id": "29444", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 310, "raw": "{\"label\": \"real\"}"}
+{"id": "29445", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 279, "raw": "{\"label\": \"real\"}"}
+{"id": "29446", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 285, "raw": "{\"label\": \"real\"}"}
+{"id": "29447", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 322, "raw": "{\"label\": \"fake\"}"}
+{"id": "29448", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 299, "raw": "{\"label\": \"real\"}"}
+{"id": "29449", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 329, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29450", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 324, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29451", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 312, "raw": "{\"label\": \"real\"}"}
+{"id": "29452", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 285, "raw": "{\"label\": \"real\"}"}
+{"id": "29453", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 271, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29454", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 291, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29455", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 281, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29456", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 292, "raw": "{\"label\": \"real\"}"}
+{"id": "29457", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 292, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29458", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 303, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29459", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 286, "raw": "{\"label\": \"real\"}"}
+{"id": "29460", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 293, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29461", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 280, "raw": "{\"label\": \"fake\"}"}
+{"id": "29462", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 284, "raw": "{\"label\": \"real\"}"}
+{"id": "29463", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 310, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29464", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 311, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29465", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 325, "raw": "{\"label\": \"fake\"}"}
+{"id": "29466", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 305, "raw": "{\"label\": \"fake\"}"}
+{"id": "29467", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 313, "raw": "{\"label\": \"fake\"}"}
+{"id": "29468", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 304, "raw": "{\"label\": \"fake\"}"}
+{"id": "29469", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 270, "raw": "{\"label\": \"fake\"}"}
+{"id": "29470", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 285, "raw": "{\"label\": \"fake\"}"}
+{"id": "29471", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 280, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29472", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 276, "raw": "{\"label\": \"fake\"}"}
+{"id": "29473", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 295, "raw": "{\"label\": \"real\"}"}
+{"id": "29474", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 321, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29475", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 304, "raw": "{\"label\": \"real\"}"}
+{"id": "29476", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 294, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29477", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 286, "raw": "{\"label\": \"fake\"}"}
+{"id": "29478", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 294, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29479", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 282, "raw": "{\"label\": \"fake\"}"}
+{"id": "29480", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 284, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29481", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 285, "raw": "{\"label\": \"real\"}"}
+{"id": "29482", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 298, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29483", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 304, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29484", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 294, "raw": "{\"label\": \"fake\"}"}
+{"id": "29485", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 297, "raw": "{\"label\": \"fake\"}"}
+{"id": "29486", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 287, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29487", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 321, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29488", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 325, "raw": "{\"label\": \"real\"}"}
+{"id": "29489", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 291, "raw": "{\"label\": \"real\"}"}
+{"id": "29490", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 318, "raw": "{\"label\": \"fake\"}"}
+{"id": "29491", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 316, "raw": "{\"label\": \"fake\"}"}
+{"id": "29492", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 303, "raw": "{\"label\": \"fake\"}"}
+{"id": "29493", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 294, "raw": "{\"label\": \"real\"}"}
+{"id": "29494", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 320, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29495", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 282, "raw": "{\"label\": \"real\"}"}
+{"id": "29496", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 327, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29497", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 686, "raw": "{\"label\": \"fake\"}"}
+{"id": "29498", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 674, "raw": "{\"label\": \"fake\"}"}
+{"id": "29499", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 670, "raw": "{\"label\": \"fake\"}"}
+{"id": "29500", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 681, "raw": "{\"label\": \"fake\"}"}
+{"id": "29501", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 333, "raw": "{\"label\": \"real\"}"}
+{"id": "29502", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 673, "raw": "{\"label\": \"fake\"}"}
+{"id": "29503", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 316, "raw": "{\"label\": \"fake\"}"}
+{"id": "29504", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 681, "raw": "{\"label\": \"fake\"}"}
+{"id": "29505", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 680, "raw": "{\"label\": \"fake\"}"}
+{"id": "29506", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 680, "raw": "{\"label\": \"fake\"}"}
+{"id": "29507", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 679, "raw": "{\"label\": \"fake\"}"}
+{"id": "29508", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 678, "raw": "{\"label\": \"fake\"}"}
+{"id": "29509", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 679, "raw": "{\"label\": \"fake\"}"}
+{"id": "29510", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 349, "raw": "{\"label\": \"fake\"}"}
+{"id": "29511", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 322, "raw": "{\"label\": \"fake\"}"}
+{"id": "29512", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 315, "raw": "{\"label\": \"real\"}"}
+{"id": "29513", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 315, "raw": "{\"label\": \"real\"}"}
+{"id": "29514", "quarter": 2, "gold": "fake", "pred": "real", "image_used": false, "tokens": 341, "raw": "{\"label\": \"real\"}"}
+{"id": "29515", "quarter": 2, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 353, "raw": "{\"label\": \"fake\"}"}
+{"id": "29516", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 686, "raw": "{\"label\": \"fake\"}"}
+{"id": "29517", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 674, "raw": "{\"label\": \"fake\"}"}
+{"id": "29518", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 670, "raw": "{\"label\": \"fake\"}"}
+{"id": "29519", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 678, "raw": "{\"label\": \"fake\"}"}
+{"id": "29520", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 333, "raw": "{\"label\": \"fake\"}"}
+{"id": "29521", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 673, "raw": "{\"label\": \"fake\"}"}
+{"id": "29522", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 326, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29523", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 681, "raw": "{\"label\": \"fake\"}"}
+{"id": "29524", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 680, "raw": "{\"label\": \"fake\"}"}
+{"id": "29525", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 680, "raw": "{\"label\": \"fake\"}"}
+{"id": "29526", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 679, "raw": "{\"label\": \"fake\"}"}
+{"id": "29527", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 678, "raw": "{\"label\": \"fake\"}"}
+{"id": "29528", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 679, "raw": "{\"label\": \"fake\"}"}
+{"id": "29529", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 357, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29530", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 327, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29531", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 315, "raw": "{\"label\": \"real\"}"}
+{"id": "29532", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 328, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29533", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 346, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29534", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 363, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29535", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 363, "raw": "{\"label\": \"fake\"}"}
+{"id": "29536", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 368, "raw": "{\"label\": \"fake\"}"}
+{"id": "29537", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 363, "raw": "{\"label\": \"fake\"}"}
+{"id": "29538", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 371, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29539", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 387, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29540", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 335, "raw": "{\"label\": \"fake\"}"}
+{"id": "29541", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 476, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29542", "quarter": 2, "gold": "real", "pred": "real", "image_used": false, "tokens": 366, "raw": "{\"label\": \"real\"}"}
+{"id": "29543", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 371, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29544", "quarter": 2, "gold": "real", "pred": "fake", "image_used": false, "tokens": 376, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29545", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 289, "raw": "{\"label\": \"real\"}"}
+{"id": "29546", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 332, "raw": "{\"label\": \"real\"}"}
+{"id": "29547", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 296, "raw": "{\"label\": \"real\"}"}
+{"id": "29548", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 311, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29549", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 297, "raw": "{\"label\": \"real\"}"}
+{"id": "29550", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 303, "raw": "{\"label\": \"real\"}"}
+{"id": "29551", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 326, "raw": "{\"label\": \"real\"}"}
+{"id": "29552", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 339, "raw": "{\"label\": \"fake\"}"}
+{"id": "29553", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 301, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29554", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 302, "raw": "{\"label\": \"real\"}"}
+{"id": "29555", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 305, "raw": "{\"label\": \"fake\"}"}
+{"id": "29556", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 323, "raw": "{\"label\": \"real\"}"}
+{"id": "29557", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 318, "raw": "{\"label\": \"fake\"}"}
+{"id": "29558", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 325, "raw": "{\"label\": \"real\"}"}
+{"id": "29559", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 309, "raw": "{\"label\": \"real\"}"}
+{"id": "29560", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 295, "raw": "{\"label\": \"real\"}"}
+{"id": "29561", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 283, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29562", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 301, "raw": "{\"label\": \"real\"}"}
+{"id": "29563", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 318, "raw": "{\"label\": \"real\"}"}
+{"id": "29564", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 294, "raw": "{\"label\": \"real\"}"}
+{"id": "29565", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 314, "raw": "{\"label\": \"real\"}"}
+{"id": "29566", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 282, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29567", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 297, "raw": "{\"label\": \"real\"}"}
+{"id": "29568", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 301, "raw": "{\"label\": \"real\"}"}
+{"id": "29569", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 284, "raw": "{\"label\": \"fake\"}"}
+{"id": "29570", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 310, "raw": "{\"label\": \"fake\"}"}
+{"id": "29571", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 262, "raw": "{\"label\": \"real\"}"}
+{"id": "29572", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 291, "raw": "{\"label\": \"real\"}"}
+{"id": "29573", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 306, "raw": "{\"label\": \"fake\"}"}
+{"id": "29574", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 291, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29575", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 295, "raw": "{\"label\": \"fake\"}"}
+{"id": "29576", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 308, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29577", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 267, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29578", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 305, "raw": "{\"label\": \"real\"}"}
+{"id": "29579", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 266, "raw": "{\"label\": \"fake\"}"}
+{"id": "29580", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 303, "raw": "{\"label\": \"fake\"}"}
+{"id": "29581", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 290, "raw": "{\"label\": \"fake\"}"}
+{"id": "29582", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 259, "raw": "{\"label\": \"fake\"}"}
+{"id": "29583", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 304, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29584", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 677, "raw": "{\"label\": \"fake\"}"}
+{"id": "29585", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 674, "raw": "{\"label\": \"fake\"}"}
+{"id": "29586", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 382, "raw": "{\"label\": \"real\"}"}
+{"id": "29587", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 330, "raw": "{\"label\": \"fake\"}"}
+{"id": "29588", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 323, "raw": "{\"label\": \"fake\"}"}
+{"id": "29589", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 676, "raw": "{\"label\": \"fake\"}"}
+{"id": "29590", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 682, "raw": "{\"label\": \"fake\"}"}
+{"id": "29591", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 676, "raw": "{\"label\": \"fake\"}"}
+{"id": "29592", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 336, "raw": "{\"label\": \"real\"}"}
+{"id": "29593", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 344, "raw": "{\"label\": \"real\"}"}
+{"id": "29594", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 342, "raw": "{\"label\": \"real\"}"}
+{"id": "29595", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 339, "raw": "{\"label\": \"fake\"}"}
+{"id": "29596", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 361, "raw": "{\"label\": \"fake\"}"}
+{"id": "29597", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 322, "raw": "{\"label\": \"fake\"}"}
+{"id": "29598", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 358, "raw": "```json\n\"fake\"\n```"}
+{"id": "29599", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 363, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29600", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 361, "raw": "{\"label\": \"real\"}"}
+{"id": "29601", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 366, "raw": "{\"label\": \"real\"}"}
+{"id": "29602", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 677, "raw": "{\"label\": \"fake\"}"}
+{"id": "29603", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 674, "raw": "{\"label\": \"fake\"}"}
+{"id": "29604", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 382, "raw": "{\"label\": \"real\"}"}
+{"id": "29605", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 330, "raw": "{\"label\": \"fake\"}"}
+{"id": "29606", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 323, "raw": "{\"label\": \"fake\"}"}
+{"id": "29607", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 676, "raw": "{\"label\": \"fake\"}"}
+{"id": "29608", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 682, "raw": "{\"label\": \"fake\"}"}
+{"id": "29609", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 676, "raw": "{\"label\": \"fake\"}"}
+{"id": "29610", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 336, "raw": "{\"label\": \"real\"}"}
+{"id": "29611", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 344, "raw": "{\"label\": \"fake\"}"}
+{"id": "29612", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 342, "raw": "{\"label\": \"fake\"}"}
+{"id": "29613", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 339, "raw": "{\"label\": \"real\"}"}
+{"id": "29614", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 361, "raw": "{\"label\": \"fake\"}"}
+{"id": "29615", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 322, "raw": "{\"label\": \"real\"}"}
+{"id": "29616", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 356, "raw": "{\"label\": \"real\"}"}
+{"id": "29617", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 358, "raw": "{\"label\": \"fake\"}"}
+{"id": "29618", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 371, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29619", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 411, "raw": "{\"label\": \"fake\"}"}
+{"id": "29620", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 324, "raw": "{\"label\": \"fake\"}"}
+{"id": "29621", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 279, "raw": "{\"label\": \"fake\"}"}
+{"id": "29622", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 270, "raw": "{\"label\": \"fake\"}"}
+{"id": "29623", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 269, "raw": "{\"label\": \"fake\"}"}
+{"id": "29624", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 366, "raw": "{\"label\": \"fake\"}"}
+{"id": "29625", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 130, "raw": "{\"label\": \"fake\"}"}
+{"id": "29626", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 120, "raw": "{\"label\": \"fake\"}"}
+{"id": "29627", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 120, "raw": "{\"label\": \"fake\"}"}
+{"id": "29628", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 133, "raw": "{\"label\": \"fake\"}"}
+{"id": "29629", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 128, "raw": "{\"label\": \"fake\"}"}
+{"id": "29630", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 284, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29631", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 284, "raw": "{\"label\": \"real\"}"}
+{"id": "29632", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 301, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29633", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 280, "raw": "{\n  \"label\": \"real\"\n}"}
+{"id": "29634", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 288, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29635", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 281, "raw": "{\"label\": \"real\"}"}
+{"id": "29636", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 302, "raw": "{\"label\": \"real\"}"}
+{"id": "29637", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 303, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29638", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 291, "raw": "{\"label\": \"real\"}"}
+{"id": "29639", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 309, "raw": "{\"label\": \"real\"}"}
+{"id": "29640", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 288, "raw": "{\"label\": \"real\"}"}
+{"id": "29641", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 285, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29642", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 304, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29643", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 298, "raw": "{\"label\": \"fake\"}"}
+{"id": "29644", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 299, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29645", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 292, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29646", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 290, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29647", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 283, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29648", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 304, "raw": "{\"label\": \"real\"}"}
+{"id": "29649", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 313, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29650", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 260, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29651", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 321, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29652", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 290, "raw": "{\"label\": \"fake\"}"}
+{"id": "29653", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 339, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29654", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 306, "raw": "{\"label\": \"real\"}"}
+{"id": "29655", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 305, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29656", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 293, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29657", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 285, "raw": "{\"label\": \"fake\"}"}
+{"id": "29658", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 287, "raw": "{\"label\": \"fake\"}"}
+{"id": "29659", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 295, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29660", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 309, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29661", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 298, "raw": "{\"label\": \"fake\"}"}
+{"id": "29662", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 301, "raw": "{\"label\": \"real\"}"}
+{"id": "29663", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 322, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29664", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 276, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29665", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 309, "raw": "{\"label\": \"fake\"}"}
+{"id": "29666", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 264, "raw": "{\"label\": \"fake\"}"}
+{"id": "29667", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 318, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29668", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 304, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29669", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 325, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29670", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 308, "raw": "{\"label\": \"real\"}"}
+{"id": "29671", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 298, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29672", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 140, "raw": "{\"label\": \"real\"}"}
+{"id": "29673", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 680, "raw": "{\"label\": \"fake\"}"}
+{"id": "29674", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 677, "raw": "{\"label\": \"fake\"}"}
+{"id": "29675", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 677, "raw": "{\"label\": \"fake\"}"}
+{"id": "29676", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 681, "raw": "{\"label\": \"fake\"}"}
+{"id": "29677", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 673, "raw": "{\"label\": \"fake\"}"}
+{"id": "29678", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 674, "raw": "{\"label\": \"fake\"}"}
+{"id": "29679", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 339, "raw": "{\"label\": \"fake\"}"}
+{"id": "29680", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 680, "raw": "{\"label\": \"fake\"}"}
+{"id": "29681", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 679, "raw": "{\"label\": \"fake\"}"}
+{"id": "29682", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 680, "raw": "{\"label\": \"fake\"}"}
+{"id": "29683", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 682, "raw": "{\"label\": \"fake\"}"}
+{"id": "29684", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 681, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29685", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 682, "raw": "{\"label\": \"fake\"}"}
+{"id": "29686", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 675, "raw": "{\"label\": \"fake\"}"}
+{"id": "29687", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 674, "raw": "{\"label\": \"fake\"}"}
+{"id": "29688", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 676, "raw": "{\"label\": \"fake\"}"}
+{"id": "29689", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 680, "raw": "{\"label\": \"fake\"}"}
+{"id": "29690", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 680, "raw": "{\"label\": \"fake\"}"}
+{"id": "29691", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 681, "raw": "{\"label\": \"fake\"}"}
+{"id": "29692", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 670, "raw": "{\"label\": \"fake\"}"}
+{"id": "29693", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 260, "raw": "{\"label\": \"fake\"}"}
+{"id": "29694", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 239, "raw": "{\"label\": \"real\"}"}
+{"id": "29695", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 681, "raw": "{\"label\": \"fake\"}"}
+{"id": "29696", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 679, "raw": "{\"label\": \"fake\"}"}
+{"id": "29697", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 680, "raw": "{\"label\": \"fake\"}"}
+{"id": "29698", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 678, "raw": "{\"label\": \"fake\"}"}
+{"id": "29699", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 675, "raw": "{\"label\": \"fake\"}"}
+{"id": "29700", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 681, "raw": "{\"label\": \"fake\"}"}
+{"id": "29701", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 682, "raw": "{\"label\": \"fake\"}"}
+{"id": "29702", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 676, "raw": "{\"label\": \"fake\"}"}
+{"id": "29703", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 677, "raw": "{\"label\": \"fake\"}"}
+{"id": "29704", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 679, "raw": "{\"label\": \"fake\"}"}
+{"id": "29705", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 677, "raw": "{\"label\": \"fake\"}"}
+{"id": "29706", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 676, "raw": "{\"label\": \"fake\"}"}
+{"id": "29707", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 666, "raw": "{\"label\": \"fake\"}"}
+{"id": "29708", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 681, "raw": "{\"label\": \"fake\"}"}
+{"id": "29709", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 677, "raw": "{\"label\": \"fake\"}"}
+{"id": "29710", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 680, "raw": "{\"label\": \"fake\"}"}
+{"id": "29711", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 675, "raw": "{\"label\": \"fake\"}"}
+{"id": "29712", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 679, "raw": "{\"label\": \"fake\"}"}
+{"id": "29713", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 681, "raw": "{\"label\": \"fake\"}"}
+{"id": "29714", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 683, "raw": "{\"label\": \"fake\"}"}
+{"id": "29715", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 339, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29716", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 353, "raw": "{\"label\": \"fake\"}"}
+{"id": "29717", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 332, "raw": "{\"label\": \"real\"}"}
+{"id": "29718", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 150, "raw": "{\"label\": \"real\"}"}
+{"id": "29719", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 138, "raw": "{\"label\": \"real\"}"}
+{"id": "29720", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 146, "raw": "{\"label\": \"real\"}"}
+{"id": "29721", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 125, "raw": "{\"label\": \"fake\"}"}
+{"id": "29722", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 146, "raw": "{\"label\": \"real\"}"}
+{"id": "29723", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 123, "raw": "{\"label\": \"real\"}"}
+{"id": "29724", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 131, "raw": "{\"label\": \"real\"}"}
+{"id": "29725", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 142, "raw": "{\"label\": \"real\"}"}
+{"id": "29726", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 131, "raw": "{\"label\": \"real\"}"}
+{"id": "29727", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 133, "raw": "{\"label\": \"real\"}"}
+{"id": "29728", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 143, "raw": "{\"label\": \"real\"}"}
+{"id": "29729", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 135, "raw": "{\"label\": \"fake\"}"}
+{"id": "29730", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 139, "raw": "{\"label\": \"fake\"}"}
+{"id": "29731", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 124, "raw": "{\"label\": \"real\"}"}
+{"id": "29732", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 130, "raw": "{\"label\": \"fake\"}"}
+{"id": "29733", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 137, "raw": "{\"label\": \"fake\"}"}
+{"id": "29734", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 132, "raw": "{\"label\": \"real\"}"}
+{"id": "29735", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 125, "raw": "{\"label\": \"real\"}"}
+{"id": "29736", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 133, "raw": "{\"label\": \"fake\"}"}
+{"id": "29737", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 129, "raw": "{\"label\": \"real\"}"}
+{"id": "29738", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 141, "raw": "{\"label\": \"real\"}"}
+{"id": "29739", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 134, "raw": "{\"label\": \"real\"}"}
+{"id": "29740", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 134, "raw": "{\"label\": \"fake\"}"}
+{"id": "29741", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 143, "raw": "{\"label\": \"real\"}"}
+{"id": "29742", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 154, "raw": "{\"label\": \"real\"}"}
+{"id": "29743", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 128, "raw": "{\"label\": \"real\"}"}
+{"id": "29744", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 139, "raw": "{\"label\": \"real\"}"}
+{"id": "29745", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 145, "raw": "{\"label\": \"real\"}"}
+{"id": "29746", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 136, "raw": "{\"label\": \"real\"}"}
+{"id": "29747", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 150, "raw": "{\"label\": \"real\"}"}
+{"id": "29748", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 131, "raw": "{\"label\": \"real\"}"}
+{"id": "29749", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 146, "raw": "{\"label\": \"real\"}"}
+{"id": "29750", "quarter": 3, "gold": "real", "pred": "fake", "image_used": false, "tokens": 125, "raw": "{\"label\": \"fake\"}"}
+{"id": "29751", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 129, "raw": "{\"label\": \"real\"}"}
+{"id": "29752", "quarter": 3, "gold": "real", "pred": "real", "image_used": false, "tokens": 143, "raw": "{\"label\": \"real\"}"}
+{"id": "29753", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 297, "raw": "{\"label\": \"fake\"}"}
+{"id": "29754", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 278, "raw": "{\"label\": \"real\"}"}
+{"id": "29755", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 310, "raw": "{\"label\": \"real\"}"}
+{"id": "29756", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 300, "raw": "{\"label\": \"fake\"}"}
+{"id": "29757", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 292, "raw": "{\"label\": \"real\"}"}
+{"id": "29758", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 308, "raw": "{\"label\": \"fake\"}"}
+{"id": "29759", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 276, "raw": "{\"label\": \"real\"}"}
+{"id": "29760", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 303, "raw": "{\"label\": \"fake\"}"}
+{"id": "29761", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 325, "raw": "{\"label\": \"real\"}"}
+{"id": "29762", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 291, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29763", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 319, "raw": "{\"label\": \"real\"}"}
+{"id": "29764", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 300, "raw": "{\"label\": \"fake\"}"}
+{"id": "29765", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 320, "raw": "{\"label\": \"real\"}"}
+{"id": "29766", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 300, "raw": "{\"label\": \"fake\"}"}
+{"id": "29767", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 481, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29768", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 331, "raw": "{\"label\": \"real\"}"}
+{"id": "29769", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 313, "raw": "{\"label\": \"real\"}"}
+{"id": "29770", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 326, "raw": "{\"label\": \"fake\"}"}
+{"id": "29771", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 308, "raw": "{\"label\": \"real\"}"}
+{"id": "29772", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 298, "raw": "{\"label\": \"fake\"}"}
+{"id": "29773", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 312, "raw": "{\"label\": \"real\"}"}
+{"id": "29774", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 317, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29775", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 270, "raw": "{\"label\": \"fake\"}"}
+{"id": "29776", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 290, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29777", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 123, "raw": "{\"label\": \"fake\"}"}
+{"id": "29778", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 333, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29779", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 298, "raw": "{\"label\": \"fake\"}"}
+{"id": "29780", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 322, "raw": "{\"label\": \"real\"}"}
+{"id": "29781", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 274, "raw": "{\"label\": \"fake\"}"}
+{"id": "29782", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 325, "raw": "{\"label\": \"real\"}"}
+{"id": "29783", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 302, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29784", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 321, "raw": "{\"label\": \"real\"}"}
+{"id": "29785", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 324, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29786", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 314, "raw": "{\"label\": \"real\"}"}
+{"id": "29787", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 300, "raw": "{\"label\": \"real\"}"}
+{"id": "29788", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 321, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29789", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 312, "raw": "{\"label\": \"real\"}"}
+{"id": "29790", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 331, "raw": "{\"label\": \"real\"}"}
+{"id": "29791", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 312, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29792", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 273, "raw": "{\"label\": \"fake\"}"}
+{"id": "29793", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 311, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29794", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 129, "raw": "{\"label\": \"fake\"}"}
+{"id": "29795", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 310, "raw": "{\"label\": \"fake\"}"}
+{"id": "29796", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 295, "raw": "{\"label\": \"real\"}"}
+{"id": "29797", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 308, "raw": "{\"label\": \"real\"}"}
+{"id": "29798", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 276, "raw": "{\"label\": \"fake\"}"}
+{"id": "29799", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 303, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29800", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 330, "raw": "{\"label\": \"real\"}"}
+{"id": "29801", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 271, "raw": "{\"label\": \"real\"}"}
+{"id": "29802", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 294, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29803", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 314, "raw": "{\"label\": \"fake\"}"}
+{"id": "29804", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 321, "raw": "{\"label\": \"real\"}"}
+{"id": "29805", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 310, "raw": "{\"label\": \"real\"}"}
+{"id": "29806", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 323, "raw": "{\"label\": \"real\"}"}
+{"id": "29807", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 328, "raw": "{\"label\": \"real\"}"}
+{"id": "29808", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 340, "raw": "{\"label\": \"fake\"}"}
+{"id": "29809", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 334, "raw": "{\"label\": \"fake\"}"}
+{"id": "29810", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 344, "raw": "{\"label\": \"fake\"}"}
+{"id": "29811", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 312, "raw": "{\"label\": \"fake\"}"}
+{"id": "29812", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 345, "raw": "{\"label\": \"real\"}"}
+{"id": "29813", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 342, "raw": "{\"label\": \"fake\"}"}
+{"id": "29814", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 338, "raw": "{\"label\": \"real\"}"}
+{"id": "29815", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 361, "raw": "{\"label\": \"real\"}"}
+{"id": "29816", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 358, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29817", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 352, "raw": "{\"label\": \"real\"}"}
+{"id": "29818", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 119, "raw": "{\"label\": \"fake\"}"}
+{"id": "29819", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 333, "raw": "{\"label\": \"fake\"}"}
+{"id": "29820", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 386, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29821", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 368, "raw": "{\"label\": \"real\"}"}
+{"id": "29822", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 133, "raw": "{\"label\": \"fake\"}"}
+{"id": "29823", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 349, "raw": "{\"label\": \"fake\"}"}
+{"id": "29824", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 134, "raw": "{\"label\": \"fake\"}"}
+{"id": "29825", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 349, "raw": "{\"label\": \"fake\"}"}
+{"id": "29826", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 329, "raw": "{\"label\": \"fake\"}"}
+{"id": "29827", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 372, "raw": "{\"label\": \"fake\"}"}
+{"id": "29828", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 324, "raw": "{\"label\": \"fake\"}"}
+{"id": "29829", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 368, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29830", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 334, "raw": "{\"label\": \"fake\"}"}
+{"id": "29831", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 358, "raw": "{\"label\": \"fake\"}"}
+{"id": "29832", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 123, "raw": "{\"label\": \"fake\"}"}
+{"id": "29833", "quarter": 3, "gold": "fake", "pred": "real", "image_used": false, "tokens": 135, "raw": "{\"label\": \"real\"}"}
+{"id": "29834", "quarter": 3, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 122, "raw": "{\"label\": \"fake\"}"}
+{"id": "29835", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 324, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29836", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 286, "raw": "{\"label\": \"real\"}"}
+{"id": "29837", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 309, "raw": "{\"label\": \"real\"}"}
+{"id": "29838", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 319, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29839", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 301, "raw": "{\"label\": \"real\"}"}
+{"id": "29840", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 319, "raw": "{\"label\": \"fake\"}"}
+{"id": "29841", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 334, "raw": "{\"label\": \"real\"}"}
+{"id": "29842", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 331, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29843", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 289, "raw": "{\"label\": \"real\"}"}
+{"id": "29844", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 281, "raw": "{\"label\": \"real\"}"}
+{"id": "29845", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 326, "raw": "{\"label\": \"real\"}"}
+{"id": "29846", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 312, "raw": "{\"label\": \"real\"}"}
+{"id": "29847", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 290, "raw": "{\"label\": \"real\"}"}
+{"id": "29848", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 296, "raw": "{\"label\": \"fake\"}"}
+{"id": "29849", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 330, "raw": "{\"label\": \"real\"}"}
+{"id": "29850", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 295, "raw": "{\"label\": \"real\"}"}
+{"id": "29851", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 305, "raw": "{\"label\": \"real\"}"}
+{"id": "29852", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 317, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29853", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 306, "raw": "{\"label\": \"real\"}"}
+{"id": "29854", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 307, "raw": "{\"label\": \"real\"}"}
+{"id": "29855", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 283, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29856", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 319, "raw": "{\"label\": \"real\"}"}
+{"id": "29857", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 293, "raw": "{\"label\": \"fake\"}"}
+{"id": "29858", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 289, "raw": "{\"label\": \"real\"}"}
+{"id": "29859", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 309, "raw": "{\"label\": \"fake\"}"}
+{"id": "29860", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 305, "raw": "{\"label\": \"fake\"}"}
+{"id": "29861", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 288, "raw": "{\"label\": \"fake\"}"}
+{"id": "29862", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 285, "raw": "{\"label\": \"fake\"}"}
+{"id": "29863", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 301, "raw": "{\n  \"label\": \"real\"\n}"}
+{"id": "29864", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 288, "raw": "{\"label\": \"fake\"}"}
+{"id": "29865", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 290, "raw": "{\"label\": \"fake\"}"}
+{"id": "29866", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 310, "raw": "{\"label\": \"real\"}"}
+{"id": "29867", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 285, "raw": "{\"label\": \"fake\"}"}
+{"id": "29868", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 325, "raw": "{\"label\": \"fake\"}"}
+{"id": "29869", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 676, "raw": "{\"label\": \"fake\"}"}
+{"id": "29870", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 676, "raw": "{\"label\": \"fake\"}"}
+{"id": "29871", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 332, "raw": "{\"label\": \"fake\"}"}
+{"id": "29872", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 681, "raw": "{\"label\": \"fake\"}"}
+{"id": "29873", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 673, "raw": "{\"label\": \"fake\"}"}
+{"id": "29874", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 376, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29875", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 371, "raw": "{\"label\": \"real\"}"}
+{"id": "29876", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 680, "raw": "{\"label\": \"fake\"}"}
+{"id": "29877", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 360, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29878", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 676, "raw": "{\"label\": \"fake\"}"}
+{"id": "29879", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 679, "raw": "{\"label\": \"fake\"}"}
+{"id": "29880", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 318, "raw": "{\"label\": \"real\"}"}
+{"id": "29881", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 350, "raw": "{\"label\": \"fake\"}"}
+{"id": "29882", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 340, "raw": "{\"label\": \"real\"}"}
+{"id": "29883", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 386, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29884", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 484, "raw": "{\"label\": \"fake\"}"}
+{"id": "29885", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 331, "raw": "{\"label\": \"real\"}"}
+{"id": "29886", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 325, "raw": "{\"label\": \"fake\"}"}
+{"id": "29887", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 676, "raw": "{\"label\": \"fake\"}"}
+{"id": "29888", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 676, "raw": "{\"label\": \"fake\"}"}
+{"id": "29889", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 681, "raw": "{\"label\": \"fake\"}"}
+{"id": "29890", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 673, "raw": "{\"label\": \"fake\"}"}
+{"id": "29891", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 376, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29892", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 371, "raw": "{\"label\": \"fake\"}"}
+{"id": "29893", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 680, "raw": "{\"label\": \"fake\"}"}
+{"id": "29894", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 676, "raw": "{\"label\": \"fake\"}"}
+{"id": "29895", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 679, "raw": "{\"label\": \"fake\"}"}
+{"id": "29896", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 323, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29897", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 350, "raw": "{\"label\": \"fake\"}"}
+{"id": "29898", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 340, "raw": "{\"label\": \"real\"}"}
+{"id": "29899", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 484, "raw": "{\"label\": \"fake\"}"}
+{"id": "29900", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 331, "raw": "{\"label\": \"real\"}"}
+{"id": "29901", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 386, "raw": "{\"label\": \"fake\"}"}
+{"id": "29902", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 291, "raw": "{\"label\": \"fake\"}"}
+{"id": "29903", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 291, "raw": "{\"label\": \"fake\"}"}
+{"id": "29904", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 120, "raw": "{\"label\": \"fake\"}"}
+{"id": "29905", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 120, "raw": "{\"label\": \"fake\"}"}
+{"id": "29906", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 120, "raw": "{\"label\": \"fake\"}"}
+{"id": "29907", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 120, "raw": "{\"label\": \"fake\"}"}
+{"id": "29908", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 120, "raw": "{\"label\": \"fake\"}"}
+{"id": "29909", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 134, "raw": "{\"label\": \"real\"}"}
+{"id": "29910", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 144, "raw": "{\"label\": \"fake\"}"}
+{"id": "29911", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 131, "raw": "{\"label\": \"fake\"}"}
+{"id": "29912", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 142, "raw": "{\"label\": \"real\"}"}
+{"id": "29913", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 275, "raw": "{\"label\": \"real\"}"}
+{"id": "29914", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 294, "raw": "{\"label\": \"real\"}"}
+{"id": "29915", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 286, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29916", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 291, "raw": "{\"label\": \"fake\"}"}
+{"id": "29917", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 304, "raw": "{\"label\": \"real\"}"}
+{"id": "29918", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 415, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29919", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 282, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29920", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 417, "raw": "{\"label\": \"fake\"}"}
+{"id": "29921", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 303, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29922", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 307, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29923", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 272, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29924", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 294, "raw": "{\"label\": \"fake\"}"}
+{"id": "29925", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 293, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29926", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 315, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29927", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 285, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29928", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 292, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29929", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 283, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29930", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 292, "raw": "{\"label\": \"real\"}"}
+{"id": "29931", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 277, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29932", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 284, "raw": "{\"label\": \"fake\"}"}
+{"id": "29933", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 280, "raw": "{\"label\": \"fake\"}"}
+{"id": "29934", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 302, "raw": "{\"label\": \"fake\"}"}
+{"id": "29935", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 297, "raw": "{\"label\": \"fake\"}"}
+{"id": "29936", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 309, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29937", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 301, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29938", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 305, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "29939", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 295, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "29940", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 289, "raw": "{\"label\": \"real\"}"}
+{"id": "29941", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 300, "raw": "{\"label\": \"real\"}"}
+{"id": "29942", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 299, "raw": "{\"label\": \"fake\"}"}
+{"id": "29943", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 289, "raw": "{\"label\": \"real\"}"}
+{"id": "29944", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 287, "raw": "{\"label\": \"real\"}"}
+{"id": "29945", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 297, "raw": "{\"label\": \"fake\"}"}
+{"id": "29946", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 293, "raw": "{\"label\": \"real\"}"}
+{"id": "29947", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 299, "raw": "{\"label\": \"real\"}"}
+{"id": "29948", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 299, "raw": "{\"label\": \"fake\"}"}
+{"id": "29949", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 304, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29950", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 306, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29951", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 289, "raw": "{\"label\": \"real\"}"}
+{"id": "29952", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 291, "raw": "{\"label\": \"real\"}"}
+{"id": "29953", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 296, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29954", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 296, "raw": "{\"label\": \"real\"}"}
+{"id": "29955", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 297, "raw": "{\"label\": \"real\"}"}
+{"id": "29956", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 306, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29957", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 298, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29958", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 318, "raw": "{\"label\": \"fake\"}"}
+{"id": "29959", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 327, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "29960", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 334, "raw": "{\"label\": \"real\"}"}
+{"id": "29961", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 300, "raw": "{\"label\": \"real\"}"}
+{"id": "29962", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 322, "raw": "{\"label\": \"real\"}"}
+{"id": "29963", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 682, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "29964", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 684, "raw": "{\"label\": \"fake\"}"}
+{"id": "29965", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 679, "raw": "{\"label\": \"fake\"}"}
+{"id": "29966", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 677, "raw": "{\"label\": \"fake\"}"}
+{"id": "29967", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 677, "raw": "{\"label\": \"fake\"}"}
+{"id": "29968", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 683, "raw": "{\"label\": \"fake\"}"}
+{"id": "29969", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 674, "raw": "{\"label\": \"fake\"}"}
+{"id": "29970", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 679, "raw": "{\"label\": \"fake\"}"}
+{"id": "29971", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 675, "raw": "{\"label\": \"fake\"}"}
+{"id": "29972", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 358, "raw": "{\"label\": \"fake\"}"}
+{"id": "29973", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 214, "raw": "{\"label\": \"fake\"}"}
+{"id": "29974", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 337, "raw": "{\"label\": \"fake\"}"}
+{"id": "29975", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 675, "raw": "{\"label\": \"fake\"}"}
+{"id": "29976", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 272, "raw": "{\n  \"label\": \"fake\"\n}"}
+{"id": "29977", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 676, "raw": "{\"label\": \"fake\"}"}
+{"id": "29978", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 313, "raw": "{\"label\": \"real\"}"}
+{"id": "29979", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 678, "raw": "{\"label\": \"fake\"}"}
+{"id": "29980", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 671, "raw": "{\"label\": \"fake\"}"}
+{"id": "29981", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 676, "raw": "{\"label\": \"fake\"}"}
+{"id": "29982", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 681, "raw": "{\"label\": \"fake\"}"}
+{"id": "29983", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 680, "raw": "{\"label\": \"fake\"}"}
+{"id": "29984", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 682, "raw": "{\"label\": \"fake\"}"}
+{"id": "29985", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 678, "raw": "{\"label\": \"fake\"}"}
+{"id": "29986", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 683, "raw": "{\"label\": \"fake\"}"}
+{"id": "29987", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 677, "raw": "{\"label\": \"fake\"}"}
+{"id": "29988", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 683, "raw": "{\"label\": \"fake\"}"}
+{"id": "29989", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 675, "raw": "{\"label\": \"fake\"}"}
+{"id": "29990", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 674, "raw": "{\"label\": \"fake\"}"}
+{"id": "29991", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 345, "raw": "{\"label\": \"fake\"}"}
+{"id": "29992", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 680, "raw": "{\"label\": \"fake\"}"}
+{"id": "29993", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 682, "raw": "{\"label\": \"fake\"}"}
+{"id": "29994", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 680, "raw": "{\"label\": \"fake\"}"}
+{"id": "29995", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 682, "raw": "{\"label\": \"fake\"}"}
+{"id": "29996", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 674, "raw": "{\"label\": \"fake\"}"}
+{"id": "29997", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 393, "raw": "{\"label\": \"real\"}"}
+{"id": "29998", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 677, "raw": "{\"label\": \"fake\"}"}
+{"id": "29999", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 682, "raw": "{\"label\": \"fake\"}"}
+{"id": "30000", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 316, "raw": "{\"label\": \"real\"}"}
+{"id": "30001", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 131, "raw": "{\"label\": \"real\"}"}
+{"id": "30002", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 131, "raw": "{\"label\": \"fake\"}"}
+{"id": "30003", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 130, "raw": "{\"label\": \"real\"}"}
+{"id": "30004", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 155, "raw": "{\"label\": \"real\"}"}
+{"id": "30005", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 132, "raw": "{\"label\": \"fake\"}"}
+{"id": "30006", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 134, "raw": "{\"label\": \"real\"}"}
+{"id": "30007", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 128, "raw": "{\"label\": \"real\"}"}
+{"id": "30008", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 125, "raw": "{\"label\": \"real\"}"}
+{"id": "30009", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 129, "raw": "{\"label\": \"real\"}"}
+{"id": "30010", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 126, "raw": "{\"label\": \"fake\"}"}
+{"id": "30011", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 128, "raw": "{\"label\": \"fake\"}"}
+{"id": "30012", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 137, "raw": "{\"label\": \"fake\"}"}
+{"id": "30013", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 128, "raw": "{\"label\": \"real\"}"}
+{"id": "30014", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 126, "raw": "{\"label\": \"real\"}"}
+{"id": "30015", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 132, "raw": "{\"label\": \"fake\"}"}
+{"id": "30016", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 137, "raw": "{\"label\": \"real\"}"}
+{"id": "30017", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 137, "raw": "{\"label\": \"fake\"}"}
+{"id": "30018", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 128, "raw": "{\"label\": \"real\"}"}
+{"id": "30019", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 134, "raw": "{\"label\": \"real\"}"}
+{"id": "30020", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 137, "raw": "{\"label\": \"real\"}"}
+{"id": "30021", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 139, "raw": "{\"label\": \"fake\"}"}
+{"id": "30022", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 134, "raw": "{\"label\": \"real\"}"}
+{"id": "30023", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 131, "raw": "{\"label\": \"fake\"}"}
+{"id": "30024", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 125, "raw": "{\"label\": \"real\"}"}
+{"id": "30025", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 131, "raw": "{\"label\": \"fake\"}"}
+{"id": "30026", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 138, "raw": "{\"label\": \"real\"}"}
+{"id": "30027", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 131, "raw": "{\"label\": \"fake\"}"}
+{"id": "30028", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 123, "raw": "{\"label\": \"real\"}"}
+{"id": "30029", "quarter": 4, "gold": "real", "pred": "fake", "image_used": false, "tokens": 133, "raw": "{\"label\": \"fake\"}"}
+{"id": "30030", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 138, "raw": "{\"label\": \"real\"}"}
+{"id": "30031", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 130, "raw": "{\"label\": \"real\"}"}
+{"id": "30032", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 137, "raw": "{\"label\": \"real\"}"}
+{"id": "30033", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 136, "raw": "{\"label\": \"real\"}"}
+{"id": "30034", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 128, "raw": "{\"label\": \"real\"}"}
+{"id": "30035", "quarter": 4, "gold": "real", "pred": "real", "image_used": false, "tokens": 143, "raw": "{\"label\": \"real\"}"}
+{"id": "30036", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 290, "raw": "{\"label\": \"fake\"}"}
+{"id": "30037", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 331, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "30038", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 321, "raw": "{\"label\": \"real\"}"}
+{"id": "30039", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 293, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "30040", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 341, "raw": "{\"label\": \"fake\"}"}
+{"id": "30041", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 310, "raw": "{\"label\": \"real\"}"}
+{"id": "30042", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 300, "raw": "{\"label\": \"fake\"}"}
+{"id": "30043", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 319, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "30044", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 299, "raw": "{\"label\": \"fake\"}"}
+{"id": "30045", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 309, "raw": "{\"label\": \"real\"}"}
+{"id": "30046", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 277, "raw": "{\"label\": \"fake\"}"}
+{"id": "30047", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 337, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "30048", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 307, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "30049", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 317, "raw": "{\"label\": \"fake\"}"}
+{"id": "30050", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 287, "raw": "{\"label\": \"real\"}"}
+{"id": "30051", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 314, "raw": "{\"label\": \"real\"}"}
+{"id": "30052", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 319, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "30053", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 307, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "30054", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 277, "raw": "{\"label\": \"fake\"}"}
+{"id": "30055", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 326, "raw": "{\"label\": \"real\"}"}
+{"id": "30056", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 337, "raw": "{\"label\": \"real\"}"}
+{"id": "30057", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 312, "raw": "{\"label\": \"fake\"}"}
+{"id": "30058", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 307, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "30059", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 280, "raw": "```json\n{\n  \"label\": \"fake\"\n}\n```"}
+{"id": "30060", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 292, "raw": "{\"label\": \"fake\"}"}
+{"id": "30061", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 306, "raw": "{\"label\": \"real\"}"}
+{"id": "30062", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 335, "raw": "{\"label\": \"fake\"}"}
+{"id": "30063", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 331, "raw": "{\"label\": \"fake\"}"}
+{"id": "30064", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 331, "raw": "{\"label\": \"fake\"}"}
+{"id": "30065", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 320, "raw": "{\"label\": \"fake\"}"}
+{"id": "30066", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 126, "raw": "{\"label\": \"fake\"}"}
+{"id": "30067", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 144, "raw": "{\"label\": \"fake\"}"}
+{"id": "30068", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 306, "raw": "{\"label\": \"fake\"}"}
+{"id": "30069", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 314, "raw": "{\"label\": \"fake\"}"}
+{"id": "30070", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 268, "raw": "{\"label\": \"fake\"}"}
+{"id": "30071", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 297, "raw": "{\"label\": \"fake\"}"}
+{"id": "30072", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 299, "raw": "{\"label\": \"real\"}"}
+{"id": "30073", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 339, "raw": "{\"label\": \"real\"}"}
+{"id": "30074", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 292, "raw": "{\"label\": \"fake\"}"}
+{"id": "30075", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 314, "raw": "{\"label\": \"real\"}"}
+{"id": "30076", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 314, "raw": "{\"label\": \"real\"}"}
+{"id": "30077", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 309, "raw": "{\"label\": \"real\"}"}
+{"id": "30078", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 308, "raw": "{\"label\": \"real\"}"}
+{"id": "30079", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 290, "raw": "{\"label\": \"real\"}"}
+{"id": "30080", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 267, "raw": "{\"label\": \"fake\"}"}
+{"id": "30081", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 278, "raw": "{\"label\": \"fake\"}"}
+{"id": "30082", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 289, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "30083", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 334, "raw": "{\"label\": \"fake\"}"}
+{"id": "30084", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 338, "raw": "```json\n{\"label\": \"real\"}\n```"}
+{"id": "30085", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 296, "raw": "{\"label\": \"fake\"}"}
+{"id": "30086", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 286, "raw": "{\"label\": \"real\"}"}
+{"id": "30087", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 330, "raw": "{\"label\": \"real\"}"}
+{"id": "30088", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 322, "raw": "{\"label\": \"real\"}"}
+{"id": "30089", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 319, "raw": "{\"label\": \"fake\"}"}
+{"id": "30090", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 299, "raw": "{\"label\": \"fake\"}"}
+{"id": "30091", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 332, "raw": "{\"label\": \"fake\"}"}
+{"id": "30092", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 301, "raw": "{\"label\": \"real\"}"}
+{"id": "30093", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 303, "raw": "{\"label\": \"fake\"}"}
+{"id": "30094", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 182, "raw": "{\"label\": \"fake\"}"}
+{"id": "30095", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 324, "raw": "{\"label\": \"real\"}"}
+{"id": "30096", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 300, "raw": "{\"label\": \"fake\"}"}
+{"id": "30097", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 368, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "30098", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 366, "raw": "{\"label\": \"fake\"}"}
+{"id": "30099", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 361, "raw": "{\"label\": \"fake\"}"}
+{"id": "30100", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 154, "raw": "{\"label\": \"fake\"}"}
+{"id": "30101", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 325, "raw": "{\"label\": \"real\"}"}
+{"id": "30102", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 367, "raw": "{\"label\": \"fake\"}"}
+{"id": "30103", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 131, "raw": "{\"label\": \"fake\"}"}
+{"id": "30104", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 328, "raw": "{\"label\": \"fake\"}"}
+{"id": "30105", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 369, "raw": "```json\nreal\n```"}
+{"id": "30106", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 393, "raw": "{\"label\": \"real\"}"}
+{"id": "30107", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 378, "raw": "{\"label\": \"real\"}"}
+{"id": "30108", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 379, "raw": "```json\nreal\n```"}
+{"id": "30109", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 358, "raw": "{\"label\": \"fake\"}"}
+{"id": "30110", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 366, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "30111", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 344, "raw": "{\"label\": \"real\"}"}
+{"id": "30112", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 389, "raw": "```json\n{\"label\": \"fake\"}\n```"}
+{"id": "30113", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 359, "raw": "{\"label\": \"fake\"}"}
+{"id": "30114", "quarter": 4, "gold": "fake", "pred": "real", "image_used": false, "tokens": 367, "raw": "```json\n{\n  \"label\": \"real\"\n}\n```"}
+{"id": "30115", "quarter": 4, "gold": "fake", "pred": "fake", "image_used": false, "tokens": 334, "raw": "{\"label\": \"fake\"}"}

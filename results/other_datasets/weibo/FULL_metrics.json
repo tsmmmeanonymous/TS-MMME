@@ -1,0 +1,18 @@
+{
+    "experiment": "FULL",
+    "accuracy": 0.8327974276527331,
+    "precision": 0.8551406005645661,
+    "recall": 0.8318551537153624,
+    "f1_score": 0.8298400673400674,
+    "confusion_matrix": [
+        [
+            327,
+            136
+        ],
+        [
+            20,
+            450
+        ]
+    ],
+    "classification_report": "              precision    recall  f1-score   support\n\n       rumor     0.9424    0.7063    0.8074       463\n       truth     0.7679    0.9574    0.8523       470\n\n    accuracy                         0.8328       933\n   macro avg     0.8551    0.8319    0.8298       933\nweighted avg     0.8545    0.8328    0.8300       933\n"
+}
